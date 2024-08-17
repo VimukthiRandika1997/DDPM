@@ -1,0 +1,13 @@
+einops
+imageio
+lightning
+lightning-utilities
+pillow
+numpy
+torch==2.1.2
+torchaudio==2.1.2
+torchgeometry==0.1.2
+torchprofile==0.0.4
+torchvision==0.16.2
+tensorboard
+tqdm
