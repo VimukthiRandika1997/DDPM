@@ -17,7 +17,7 @@ Implementation of the paper "Denoising Diffusion Probabilistic Models" in PyTorc
     - Vendor: <a href="https://www.runpod.io">Runpod</a>
 
 ## Infernce results
-After training of the CIFAR10 dataset, here is a visualization for 1000 denoising steps.
+After training on the CIFAR10 dataset, here is a visualization for 1000 denoising steps.
 
 <img src="assets/pred.gif" width="500" height="500"/>
 
